@@ -1,0 +1,10 @@
+[
+  {
+    "text": "Hello, how are you?",
+    "target_language": "fr"
+  },
+  {
+    "text": "I am learning AWS.",
+    "target_language": "es"
+  }
+]
